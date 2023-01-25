@@ -1,0 +1,14 @@
+i{
+    color: aqua;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid green;
+}
+th{
+    border: 3px solid green;
+}
